@@ -205,7 +205,7 @@ const css = `
   .phone {
     width: 375px;
     height: 820px;
-    background: #FAF8F4;
+    background-color: rgb(227, 227, 227);
     border-radius: 44px;
     overflow: hidden;
     color: #2C2623;
