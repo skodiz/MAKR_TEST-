@@ -193,7 +193,7 @@ const css = `
   * { box-sizing: border-box; margin: 0; padding: 0; }
 
   body {
-    background: #1d1b19;
+    background-color: rgb(227, 227, 227);
     display: flex;
     justify-content: center;
     align-items: flex-start;
